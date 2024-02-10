@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8sQ/xhvWleEwzhFT+RNZ/C7laO6FhPIX5W7IkEGIi2R9ag3FhjfPF4kCOjxt5pDTI2cROIxSVeMlPf8BB5BidQ==",
+  "dgSpecHash": "tp+7vlvySNWWGRfIsJd62LQ2KdgKxrT76Dm7qwpUxgwQ2WMVR7QTOMo56BHorn49xn0dEEx+lc7IHTCvLpr7hw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\MaskeTakip\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arrow\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\arrow\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",

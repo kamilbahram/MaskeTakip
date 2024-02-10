@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\Entitiess\\Entities.csproj": {}
+    "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\MaskeTakip\\Entitiess\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\Entitiess\\Entities.csproj": {
+    "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\MaskeTakip\\Entitiess\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\Entitiess\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\MaskeTakip\\Entitiess\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\Entitiess\\Entities.csproj",
+        "projectPath": "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\MaskeTakip\\Entitiess\\Entities.csproj",
         "packagesPath": "C:\\Users\\arrow\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\Entitiess\\obj\\",
+        "outputPath": "C:\\Users\\arrow\\Desktop\\egitim\\MaskeTakip\\MaskeTakip\\Entitiess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
